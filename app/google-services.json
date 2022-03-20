@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388061576383",
+    "project_id": "fir-practice-e908e",
+    "storage_bucket": "fir-practice-e908e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388061576383:android:b46726cf48248cbbc2da0a",
+        "android_client_info": {
+          "package_name": "com.zeroheat.firebasepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388061576383-gu3audrl3i0klgtaust08bjovflqa1jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuG0U_bhncv1Zp04BsNkVOzAt5UwjDMYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388061576383-gu3audrl3i0klgtaust08bjovflqa1jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
